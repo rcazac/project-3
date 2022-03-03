@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px"  height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#eb3648"> 
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>02 Icons / 16x16 / ic16-chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="#eb3648" fill-rule="evenodd">
+        <g id="product-menu" transform="translate(-205.000000, -25.000000)" fill="#eb3648">
+            <g id="02-Icons-/-16x16-/-ic16-chevron-down" transform="translate(203.000000, 20.000000)">
+                <path d="M12.2928932,11.7071068 C12.6834175,12.0976311 13.3165825,12.0976311 13.7071068,11.7071068 C14.0976311,11.3165825 14.0976311,10.6834175 13.7071068,10.2928932 L8.70710678,5.29289322 C8.31658249,4.90236893 7.68341751,4.90236893 7.29289322,5.29289322 L2.29289322,10.2928932 C1.90236893,10.6834175 1.90236893,11.3165825 2.29289322,11.7071068 C2.68341751,12.0976311 3.31658249,12.0976311 3.70710678,11.7071068 L8,7.41421356 L12.2928932,11.7071068 Z" id="Icon-Color" fill="#eb3648" transform="translate(8.000000, 8.500000) scale(1, -1) translate(-8.000000, -8.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
